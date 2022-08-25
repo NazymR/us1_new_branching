@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba7b9452-5073-4a07-9cd3-ea65eaf1ae38" name="Changes" comment="CreditCard.java updated/completed">
+      <change beforePath="$PROJECT_DIR$/src/Login/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Login/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DossrYrJR39o0A493WYdH9zsER" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba7b9452-5073-4a07-9cd3-ea65eaf1ae38" name="Changes" comment="" />
+      <created>1661376985704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661376985704</updated>
+      <workItem from="1661376986926" duration="2607000" />
+      <workItem from="1661379704528" duration="2659000" />
+    </task>
+    <task id="LOCAL-00001" summary="User class updated">
+      <created>1661377220671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661377220671</updated>
+    </task>
+    <task id="LOCAL-00002" summary="User class updated again">
+      <created>1661377277247</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661377277247</updated>
+    </task>
+    <task id="LOCAL-00003" summary="User class updated finaly">
+      <created>1661377317241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661377317241</updated>
+    </task>
+    <task id="LOCAL-00004" summary="User class completed">
+      <created>1661378154845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661378154845</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Payment created">
+      <created>1661378257479</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661378257479</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Payment updated">
+      <created>1661378288855</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661378288855</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Payment completed">
+      <created>1661378320048</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661378320048</updated>
+    </task>
+    <task id="LOCAL-00008" summary="CreditCard.java created">
+      <created>1661380017023</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661380017023</updated>
+    </task>
+    <task id="LOCAL-00009" summary="CreditCard.java updated">
+      <created>1661380064631</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661380064631</updated>
+    </task>
+    <task id="LOCAL-00010" summary="CreditCard.java completed">
+      <created>1661380117289</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661380117289</updated>
+    </task>
+    <task id="LOCAL-00011" summary="CreditCard.java updated/completed">
+      <created>1661385126610</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661385126610</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="User class added" />
+    <MESSAGE value="User class updated" />
+    <MESSAGE value="User class updated again" />
+    <MESSAGE value="User class updated finaly" />
+    <MESSAGE value="User class completed" />
+    <MESSAGE value="Payment created" />
+    <MESSAGE value="Payment updated" />
+    <MESSAGE value="Payment completed" />
+    <MESSAGE value="CreditCard.java created" />
+    <MESSAGE value="CreditCard.java updated" />
+    <MESSAGE value="CreditCard.java completed" />
+    <MESSAGE value="CreditCard.java updated/completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="CreditCard.java updated/completed" />
+  </component>
+</project>
